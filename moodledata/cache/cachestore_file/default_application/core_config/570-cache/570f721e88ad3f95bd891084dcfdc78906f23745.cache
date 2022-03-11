@@ -1,0 +1,19 @@
+a:7:{s:15:"backgroundimage";s:0:"";s:10:"brandcolor";s:0:"";s:6:"preset";s:12:"default.scss";s:11:"presetfiles";s:0:"";s:4:"scss";s:270:".sitelink{
+}
+        @media (min-width: 1025px) and (max-width: 1280px){
+            body {
+                    width:1920px!important;
+            }
+        }
+.img-fluid{
+height:800px!important;
+}
+
+ @media (max-width:) {
+    #page-footer {
+    }
+}
+
+
+
+";s:7:"scsspre";s:0:"";s:7:"version";s:10:"2021051700";}
